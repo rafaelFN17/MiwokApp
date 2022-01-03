@@ -1,0 +1,32 @@
+com/example/android/miwok/MainActivity.java
+ com.example.android.miwok.MainActivity
+ com.example.android.miwok.MainActivity$1
+ com.example.android.miwok.MainActivity$2
+ com.example.android.miwok.MainActivity$3
+ com.example.android.miwok.MainActivity$4
+com/example/android/miwok/PhrasesActivity.java
+ com.example.android.miwok.PhrasesActivity
+ com.example.android.miwok.PhrasesActivity$1
+ com.example.android.miwok.PhrasesActivity$2
+ com.example.android.miwok.PhrasesActivity$3
+com/example/android/miwok/BuildConfig.java
+ com.example.android.miwok.BuildConfig
+com/example/android/miwok/FamilyActivity.java
+ com.example.android.miwok.FamilyActivity
+ com.example.android.miwok.FamilyActivity$1
+ com.example.android.miwok.FamilyActivity$2
+ com.example.android.miwok.FamilyActivity$3
+com/example/android/miwok/NumbersActivity.java
+ com.example.android.miwok.NumbersActivity
+ com.example.android.miwok.NumbersActivity$1
+ com.example.android.miwok.NumbersActivity$2
+ com.example.android.miwok.NumbersActivity$3
+com/example/android/miwok/WordAdapter.java
+ com.example.android.miwok.WordAdapter
+com/example/android/miwok/ColorsActivity.java
+ com.example.android.miwok.ColorsActivity
+ com.example.android.miwok.ColorsActivity$1
+ com.example.android.miwok.ColorsActivity$2
+ com.example.android.miwok.ColorsActivity$3
+com/example/android/miwok/Word.java
+ com.example.android.miwok.Word
